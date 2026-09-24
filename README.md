@@ -1,5 +1,6 @@
 # MULTI-LINGUAL-STORY-GENERATOR-USING-LLAMA-3.3-70B-VERSATILE-THROUGH-LANGCHAIN-GROQ:
-The Multi-Lingual Story Generator Using Llama-3.3-70B-Versatile Through LangChain &amp; Groq is an  AI-powered  web  application developed using Streamlit that enables users to generate creative stories in multiple languages based on customizable inputs. The system integrates the Llama-3.3-70BVersatile large language model through LangChain and Groq to produce high-quality, context-aware 
+
+The Multi-Lingual Story Generator Using Llama-3.370BVersatileThroughLangChain&amp; Groq is an  AI-powered  web  application developed using Streamlit that enables users to generate creative stories in multiple languages based on customizable inputs. The system integrates the Llama-3.3-70BVersatile large language model through LangChain and Groq to produce high-quality, context-aware 
 stories. Users can specify the story language, tone, category, creativity level, grammar complexity, 
 target audience, time period, story idea, character names, and desired story length through an 
 interactive sidebar interface. A PromptTemplate dynamically combines all user preferences into a 
